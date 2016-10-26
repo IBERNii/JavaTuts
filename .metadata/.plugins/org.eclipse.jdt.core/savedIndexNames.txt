@@ -1,0 +1,5 @@
+INDEX VERSION 1.129+/Users/jordanberni/Desktop/JavaTuts/.metadata/.plugins/org.eclipse.jdt.core
+4244980731.index
+1508405278.index
+618545336.index
+2631677358.index
